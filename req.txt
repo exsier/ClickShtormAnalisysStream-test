@@ -1,0 +1,4 @@
+opencv-python==4.5.3.56
+vk-api==11.9.9
+easyocr==1.5.0
+moviepy==1.0.3

@@ -1,0 +1,6 @@
+venv
+.sqlite3
+static
+.avi
+__pycache__
+.idea
